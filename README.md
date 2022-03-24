@@ -3,8 +3,8 @@
 <div align="center">
 
 
-[![GitHub stars](https://img.shields.io/github/stars/henriqtm1/Instagram_Layout)](https://github.com/henriqtm1/Instagram_Layout/stargazers)<space> <space>[![GitHub license](https://img.shields.io/github/license/henriqtm1/Instagram_Layout)](https://github.com/henriqtm1/Instagram_Layout/blob/master/LICENSE
-)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/henriqtm1/Instagram_Layout)](https://github.com/henriqtm1/Instagram_Layout/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/henriqtm1/InstagramLayout)](https://github.com/henriqtm1/InstagramLayout/stargazers)<space> <space>[![GitHub license](https://img.shields.io/github/license/henriqtm1/InstagramLayout)](https://github.com/henriqtm1/InstagramLayout/blob/master/LICENSE
+)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/henriqtm1/InstagramLayout)](https://github.com/henriqtm1/InstagramLayout/network/members)
 
 </div>
 
