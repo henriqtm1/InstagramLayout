@@ -39,7 +39,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ---
 ## 📱 Emulador utilizado
-Pixel.
+
+  - Pixel
 ---
 
 Desenvolvido com 💜 por Henrique Marinho
