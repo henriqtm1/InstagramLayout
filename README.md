@@ -38,7 +38,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - Android Studio
 
 ---
-
+## 📱 Emulador utilizado
+Pixel.
 
 Desenvolvido com 💜 por Henrique Marinho
 
